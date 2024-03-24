@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="cs">
+<TS version="2.1" language="hr">
 <context>
     <name>MainWindow</name>
     <message>
@@ -22,7 +22,7 @@
         <location filename="../mainwindow.ui" line="62"/>
         <location filename="../ui_mainwindow.h" line="228"/>
         <source>About this application</source>
-        <translation>O této aplikaci</translation>
+        <translation>O ovoj aplikaciji</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="65"/>
@@ -40,13 +40,13 @@
         <location filename="../mainwindow.ui" line="126"/>
         <location filename="../ui_mainwindow.h" line="236"/>
         <source>Display help </source>
-        <translation>Zobrazit nápovědu</translation>
+        <translation>Prikaži pomoć</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="129"/>
         <location filename="../ui_mainwindow.h" line="238"/>
         <source>&amp;Help</source>
-        <translation>&amp;Nápověda</translation>
+        <translation>&amp;Pomoć</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="136"/>
@@ -58,13 +58,13 @@
         <location filename="../mainwindow.ui" line="168"/>
         <location filename="../ui_mainwindow.h" line="243"/>
         <source>Quit application</source>
-        <translation>Ukončit aplikaci</translation>
+        <translation>Zatvori aplikaciju</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="171"/>
         <location filename="../ui_mainwindow.h" line="245"/>
         <source>&amp;Close</source>
-        <translation>&amp;Zavřít</translation>
+        <translation>&amp;Zatvori</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="178"/>
@@ -110,7 +110,7 @@
         <location filename="../mainwindow.ui" line="268"/>
         <location filename="../ui_mainwindow.h" line="257"/>
         <source>search</source>
-        <translation>hledat</translation>
+        <translation>traži</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="278"/>
@@ -133,7 +133,7 @@
         <location filename="../mainwindow.cpp" line="347"/>
         <location filename="../mainwindow.cpp" line="356"/>
         <source>Error</source>
-        <translation>Chyba</translation>
+        <translation>Greška</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="63"/>
@@ -169,7 +169,7 @@
     <message>
         <location filename="../mainwindow.cpp" line="303"/>
         <source>Version: </source>
-        <translation>Verze:</translation>
+        <translation>Inačica:</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="304"/>
@@ -179,12 +179,12 @@
     <message>
         <location filename="../mainwindow.cpp" line="306"/>
         <source>Copyright (c) MX Linux</source>
-        <translation>Vlastnická práva (c) MX Linux</translation>
+        <translation>Autorska prava (c) MX Linux</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="307"/>
         <source>%1 License</source>
-        <translation>Licence %1</translation>
+        <translation>%1 Licenca</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="319"/>
@@ -197,7 +197,7 @@
         <location filename="../mainwindow.cpp" line="352"/>
         <location filename="../mainwindow.cpp" line="361"/>
         <source>Success</source>
-        <translation>Úspěch!</translation>
+        <translation>Uspjeh</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="323"/>
@@ -217,7 +217,7 @@
     <message>
         <location filename="../mainwindow.cpp" line="337"/>
         <source>%1 Help</source>
-        <translation>Nápověda %1</translation>
+        <translation>%1 Pomoć</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="347"/>
@@ -245,34 +245,34 @@
     <message>
         <location filename="../about.cpp" line="70"/>
         <source>License</source>
-        <translation>Licence</translation>
+        <translation>Licenca</translation>
     </message>
     <message>
         <location filename="../about.cpp" line="71"/>
         <location filename="../about.cpp" line="81"/>
         <source>Changelog</source>
-        <translation>Protokol změn</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../about.cpp" line="72"/>
         <source>Cancel</source>
-        <translation>Zrušit</translation>
+        <translation>Otkaži</translation>
     </message>
     <message>
         <location filename="../about.cpp" line="94"/>
         <source>&amp;Close</source>
-        <translation>&amp;Zavřít</translation>
+        <translation>&amp;Zatvori</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="74"/>
         <location filename="../main.cpp" line="82"/>
         <source>Error</source>
-        <translation>Chyba</translation>
+        <translation>Greška</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="75"/>
         <source>You seem to be logged in as root, please log out and log in as normal user to use this program.</source>
-        <translation>Spuštěno pod účtem root-a, odhlašte se a přihlašte jako bězný uživatel.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../main.cpp" line="83"/>

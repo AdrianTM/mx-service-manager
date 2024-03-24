@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="cs">
+<TS version="2.1" language="ru">
 <context>
     <name>MainWindow</name>
     <message>
@@ -8,7 +8,7 @@
         <location filename="../mainwindow.cpp" line="302"/>
         <location filename="../ui_mainwindow.h" line="225"/>
         <source>MX Service Manager</source>
-        <translation type="unfinished"></translation>
+        <translation>Менеджер служб MX</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="26"/>
@@ -16,19 +16,19 @@
         <location filename="../mainwindow.cpp" line="317"/>
         <location filename="../ui_mainwindow.h" line="226"/>
         <source>&amp;Enable at boot</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Включить при загрузке</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="62"/>
         <location filename="../ui_mainwindow.h" line="228"/>
         <source>About this application</source>
-        <translation>O této aplikaci</translation>
+        <translation>Об этом приложении</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="65"/>
         <location filename="../ui_mainwindow.h" line="230"/>
         <source>&amp;About...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;О программе…</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="72"/>
@@ -40,13 +40,13 @@
         <location filename="../mainwindow.ui" line="126"/>
         <location filename="../ui_mainwindow.h" line="236"/>
         <source>Display help </source>
-        <translation>Zobrazit nápovědu</translation>
+        <translation>Показать справку</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="129"/>
         <location filename="../ui_mainwindow.h" line="238"/>
         <source>&amp;Help</source>
-        <translation>&amp;Nápověda</translation>
+        <translation>&amp;Справка</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="136"/>
@@ -58,13 +58,13 @@
         <location filename="../mainwindow.ui" line="168"/>
         <location filename="../ui_mainwindow.h" line="243"/>
         <source>Quit application</source>
-        <translation>Ukončit aplikaci</translation>
+        <translation>Выход</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="171"/>
         <location filename="../ui_mainwindow.h" line="245"/>
         <source>&amp;Close</source>
-        <translation>&amp;Zavřít</translation>
+        <translation>Закрыть</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="178"/>
@@ -77,40 +77,40 @@
         <location filename="../mainwindow.cpp" line="139"/>
         <location filename="../ui_mainwindow.h" line="250"/>
         <source>&amp;Stop</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Стоп</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="217"/>
         <location filename="../ui_mainwindow.h" line="251"/>
         <source>All services</source>
-        <translation type="unfinished"></translation>
+        <translation>Все службы</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="222"/>
         <location filename="../mainwindow.cpp" line="277"/>
         <location filename="../ui_mainwindow.h" line="252"/>
         <source>Running services</source>
-        <translation type="unfinished"></translation>
+        <translation>Запущенные службы</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="227"/>
         <location filename="../mainwindow.cpp" line="278"/>
         <location filename="../ui_mainwindow.h" line="253"/>
         <source>Services enabled at boot</source>
-        <translation type="unfinished"></translation>
+        <translation>Запущенные при загрузке службы</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="232"/>
         <location filename="../mainwindow.cpp" line="279"/>
         <location filename="../ui_mainwindow.h" line="254"/>
         <source>Services disabled at boot</source>
-        <translation type="unfinished"></translation>
+        <translation>Выключенные при загрузке службы</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="268"/>
         <location filename="../ui_mainwindow.h" line="257"/>
         <source>search</source>
-        <translation>hledat</translation>
+        <translation>поиск</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="278"/>
@@ -118,7 +118,7 @@
         <location filename="../mainwindow.cpp" line="81"/>
         <location filename="../ui_mainwindow.h" line="258"/>
         <source>Loading...</source>
-        <translation type="unfinished"></translation>
+        <translation>Загрузка...</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="297"/>
@@ -133,7 +133,7 @@
         <location filename="../mainwindow.cpp" line="347"/>
         <location filename="../mainwindow.cpp" line="356"/>
         <source>Error</source>
-        <translation>Chyba</translation>
+        <translation>Ошибка</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="63"/>
@@ -144,12 +144,12 @@
         <location filename="../mainwindow.cpp" line="144"/>
         <location filename="../mainwindow.cpp" line="345"/>
         <source>S&amp;tart</source>
-        <translation type="unfinished"></translation>
+        <translation>Пус&amp;к</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="150"/>
         <source>&amp;Disable at boot</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Отключить при загрузке</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="286"/>
@@ -164,12 +164,12 @@
     <message>
         <location filename="../mainwindow.cpp" line="302"/>
         <source>About %1</source>
-        <translation>O programu %1</translation>
+        <translation>О %1</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="303"/>
         <source>Version: </source>
-        <translation>Verze:</translation>
+        <translation>Версия: </translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="304"/>
@@ -179,17 +179,17 @@
     <message>
         <location filename="../mainwindow.cpp" line="306"/>
         <source>Copyright (c) MX Linux</source>
-        <translation>Vlastnická práva (c) MX Linux</translation>
+        <translation>Copyright (c) MX Linux</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="307"/>
         <source>%1 License</source>
-        <translation>Licence %1</translation>
+        <translation>%1 Лицензия</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="319"/>
         <source>Could not enable %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Не удалось включить %1</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="323"/>
@@ -197,47 +197,47 @@
         <location filename="../mainwindow.cpp" line="352"/>
         <location filename="../mainwindow.cpp" line="361"/>
         <source>Success</source>
-        <translation>Úspěch!</translation>
+        <translation>Успешно</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="323"/>
         <source>%1 was enabled at boot time.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 было включено во время загрузки.</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="326"/>
         <source>Could not disable %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Не удалось отключить %1</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="330"/>
         <source>%1 was disabled.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 была отключена.</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="337"/>
         <source>%1 Help</source>
-        <translation>Nápověda %1</translation>
+        <translation>%1 Справка</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="347"/>
         <source>Could not start %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Не удалось запустить %1</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="352"/>
         <source>%1 was started.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 была запущена.</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="356"/>
         <source>Could not stop %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Не удалось остановить %1</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="361"/>
         <source>%1 was stopped.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 была остановлена.</translation>
     </message>
 </context>
 <context>
@@ -245,34 +245,34 @@
     <message>
         <location filename="../about.cpp" line="70"/>
         <source>License</source>
-        <translation>Licence</translation>
+        <translation>Лицензия</translation>
     </message>
     <message>
         <location filename="../about.cpp" line="71"/>
         <location filename="../about.cpp" line="81"/>
         <source>Changelog</source>
-        <translation>Protokol změn</translation>
+        <translation>Список изменений</translation>
     </message>
     <message>
         <location filename="../about.cpp" line="72"/>
         <source>Cancel</source>
-        <translation>Zrušit</translation>
+        <translation>Отмена</translation>
     </message>
     <message>
         <location filename="../about.cpp" line="94"/>
         <source>&amp;Close</source>
-        <translation>&amp;Zavřít</translation>
+        <translation>Закрыть</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="74"/>
         <location filename="../main.cpp" line="82"/>
         <source>Error</source>
-        <translation>Chyba</translation>
+        <translation>Ошибка</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="75"/>
         <source>You seem to be logged in as root, please log out and log in as normal user to use this program.</source>
-        <translation>Spuštěno pod účtem root-a, odhlašte se a přihlašte jako bězný uživatel.</translation>
+        <translation>Программа запущена суперпользователем. Для использования программы войдите в систему как обычный пользователь.</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="83"/>
@@ -282,7 +282,7 @@
     <message>
         <location filename="../service.cpp" line="116"/>
         <source>Could not find service description</source>
-        <translation type="unfinished"></translation>
+        <translation>Не удалось найти описание службы</translation>
     </message>
 </context>
 </TS>
